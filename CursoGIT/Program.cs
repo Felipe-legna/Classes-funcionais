@@ -12,6 +12,7 @@ namespace CursoGIT
         {
             Console.WriteLine("Olá mundo");
             Console.WriteLine("Git realmente é incrível mesmo");
+            Console.WriteLine("Testando o método push no github");
 
             Console.ReadLine();
         }
