@@ -11,6 +11,7 @@ namespace CursoGIT
         static void Main(string[] args)
         {
             Console.WriteLine("Olá mundo");
+            Console.WriteLine("Git realmente é incrível");
 
             Console.ReadLine();
         }
